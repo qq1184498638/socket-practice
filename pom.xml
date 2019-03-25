@@ -53,7 +53,7 @@
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
-            <!--jackson模块-->
+            <!--jackson 模块 git test-->
             <dependency>
                 <groupId>com.fasterxml.jackson.module</groupId>
                 <artifactId>jackson-modules-java8</artifactId>
